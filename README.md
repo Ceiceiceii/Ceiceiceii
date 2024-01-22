@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!!! This is Tracy, a full stack software engineer 👋
 
 #### I am current working on a startup legal-tech project: https://nomikos.io/
 <!--
