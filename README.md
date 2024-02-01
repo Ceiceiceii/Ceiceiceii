@@ -1,6 +1,12 @@
 ### Hi!!! This is Tracy, a full stack software engineer 👋
 
 #### I am current working on a startup legal-tech project: https://nomikos.io/
+
+#### My Computer Vision Project - CNN - 
+
+#### My Agile Project - 
+
+#### My 
 <!--
 **Ceiceiceii/Ceiceiceii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
