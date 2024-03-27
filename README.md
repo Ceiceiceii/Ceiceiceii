@@ -1,12 +1,13 @@
 ### Hi!!! This is Tracy, a full stack software engineer 👋
 
-#### I am current working on a startup legal-tech project: https://nomikos.io/
+#### Full Stack Engineer @ Nomikos : https://nomikos.io/ -> Check out our tax-residency tracker
 
-#### My Computer Vision Project - CNN - 
+#### My Computer Vision Project - CNN - https://github.com/Ceiceiceii/DLProject-Emotion-Classification-of-Cartoon-Characters
 
-#### My Agile Project - 
+#### My Agile Project - Dynamic Atlas - https://github.com/Ceiceiceii/DLProject-Emotion-Classification-of-Cartoon-Characters
+                      - Deployed Address- http://157.245.220.190:5173/
 
-#### My 
+#### 
 <!--
 **Ceiceiceii/Ceiceiceii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
