@@ -4,7 +4,7 @@
 
 #### My Computer Vision Project - CNN - https://github.com/Ceiceiceii/DLProject-Emotion-Classification-of-Cartoon-Characters
 
-#### My Agile Project - Dynamic Atlas - [https://github.com/Ceiceiceii/DLProject-Emotion-Classification-of-Cartoon-Characters](https://github.com/Ceiceiceii/4-final-project-teambaker)
+#### My Agile Project - Dynamic Atlas - https://github.com/Ceiceiceii/4-final-project-teambaker
                       - Deployed Address- http://157.245.220.190:5173/
 
 #### 
