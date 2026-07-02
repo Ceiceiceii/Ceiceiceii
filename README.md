@@ -1,6 +1,6 @@
 ### Hi!!! This is Tracy, a full stack software engineer 👋
 
-#### Full Stack Engineer @ Nomikos : https://nomikos.io/ -> Check out our tax-residency tracker
+#### Full Stack Engineer @ Nomikos : [https://nomikos.io/](https://sarmiza.io/) -> Check out our tax-residency tracker
 
 #### My Computer Vision Project - CNN - https://github.com/Ceiceiceii/DLProject-Emotion-Classification-of-Cartoon-Characters
 
